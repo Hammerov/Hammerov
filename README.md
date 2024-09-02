@@ -27,5 +27,6 @@ I'm a Computer Science graduate and software developer building my version of th
 
 #
 
+<details>
  <summary><h3>👨‍💻 My Coding Journey</h3></summary>
    I started my coding journey as a naive computer science student with a passion to learn everything I could about this programming world - code, unix, linux, theory. And all the while, teaching myself software development with a dream to build my own solutions.I have a burning desire to create, and fulfill that dream of building programs.
